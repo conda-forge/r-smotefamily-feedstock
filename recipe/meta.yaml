@@ -15,7 +15,8 @@ source:
   sha256: 2a23ea5e9ab88db9c25bbcc2b42eeb96f6fa09c1a382014016fa464931c7cf98
 
 build:
-  number: 1000
+  noarch: generic
+  number: 2000
   rpaths:
     - lib/R/lib/
     - lib/
@@ -41,8 +42,7 @@ about:
     this concept with other criteria in order to generate balanced dataset for class imbalance
     problem.
   license_family: GPL2
-  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'  # [unix]
-  license_file: '{{ environ["PREFIX"] }}\R\share\licenses\GPL-2'  # [win]
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 
 extra:
   recipe-maintainers:
