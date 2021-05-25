@@ -41,7 +41,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=smotefamily
-  license: GPL (>= 3)
+  license: GPL-3.0-or-later
   summary: A collection of various oversampling techniques developed from SMOTE is provided.
     SMOTE is a oversampling technique which synthesizes a new minority instance between
     a pair of one minority instance and one of its K nearest neighbor. (see <https://www.jair.org/media/953/live-953-2037-jair.pdf>
