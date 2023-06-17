@@ -1,11 +1,11 @@
-About r-smotefamily
-===================
+About r-smotefamily-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smotefamily-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=smotefamily
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-smotefamily-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of various oversampling techniques developed from SMOTE is provided. SMOTE is a oversampling technique which synthesizes a new minority instance between a pair of one minority instance and one of its K nearest neighbor. (see <https://www.jair.org/media/953/live-953-2037-jair.pdf> for more information) Other techniques adopt this concept with other criteria in order to generate balanced dataset for class imbalance problem.
 
